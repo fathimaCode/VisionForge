@@ -52,6 +52,10 @@ The following image processing techniques are implemented:
 3. Run the appliation
     python basic_process.py
     Open the application in your browser:http://127.0.0.1:7860
+**Sample Output:**
+https://github.com/user-attachments/assets/4551db03-4714-4394-a138-c7bb06993849
+
+
 
 
 Detail Explanation on this
